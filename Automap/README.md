@@ -28,6 +28,10 @@ Executable directory: /homedirs-pg-research/sghms/student/users/m2007653/Iranian
 Full script with all sample names saved in AutoMap_script.txt file then copy and pasted into terminal whilst in bash and executed.
 This script calls in the prewritten (published) automap script - AutoMap_v1.2.sh
 
+
+This Bash script, named AutoMap, facilitates the analysis of variant call format (VCF) files for the detection of regions of homozygosity (ROH) in genomic data. It begins by checking the versions of necessary tools like bcftools, bedtools, Perl, and R. After parsing user-defined command-line arguments, it validates the input parameters and files. If multiple VCF files are provided, it checks if they are single-sample VCFs and then processes each sample individually. The script filters variants based on quality metrics like read depth (DP), allele balance, and variant calling confidence. It also handles X chromosome analysis and computes ROH regions with sliding windows, trimming, and optional extension. Finally, it generates graphical outputs and text reports summarizing the identified ROH regions, considering parameters such as minimum size, variants, and percentage threshold. If multiple VCFs are provided, it computes common ROH regions across all samples.
+
+
 # Step 2: Cross referencing variants
 2 dataframes as input:
                     1. Automap output
