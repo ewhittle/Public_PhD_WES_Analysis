@@ -60,3 +60,14 @@ Purpose: Use of Automap software to detect Runs of Homozygosity within whole exo
 Author: Ella Whittle
 Purpose: R scripts to filter whole exome sequencing data for single nucleotide, compound heterozygous and splicing variants. 
 
+## Contact
+
+Ella Whittle m2007653@sgul.ac.uk 
+
+## Quick Acknowledgments and Thanks
+
+Thank you to my computational colleagues at St George's University of London for their guidance and support over the course of this project.
+
+A huge thank you to all the open source resources made available for this project.
+
+Finally, and most importantly, thank you to the patients who  have participated in this research project. 
