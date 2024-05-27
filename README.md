@@ -69,6 +69,10 @@ Purpose: R scripts to filter whole exome sequencing data for single nucleotide, 
 
 Ella Whittle m2007653@sgul.ac.uk 
 
+
+www.linkedin.com/in/ella-whittle-014a91147
+
+
 ## Quick Acknowledgments and Thanks
 
 Thank you to my computational colleagues at St George's University of London for their guidance and support over the course of this project.
