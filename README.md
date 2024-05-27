@@ -50,14 +50,17 @@ My strategy is outlined below:
 
 ## AlphaMissense
 Author: Step 1 and 2 Constance Maurer, Step 3 and Part 2 Ella Whittle 
+
 Purpose: install and use of AlphaMissense software to variants called within whole exome sequencing data 
 
 ## Automap
 Author: Ella Whittle 
+
 Purpose: Use of Automap software to detect Runs of Homozygosity within whole exome sequencing data. Particularly relevant as I am investigating probands with consangiuneous parents and likely enrichment of recessive variants. 
 
 ## Variant Filtering
 Author: Ella Whittle
+
 Purpose: R scripts to filter whole exome sequencing data for single nucleotide, compound heterozygous and splicing variants. 
 
 ## Contact
