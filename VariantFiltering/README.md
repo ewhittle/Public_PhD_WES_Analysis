@@ -14,6 +14,29 @@ Post VEP annotation (final stage of raw processing of whole exome sequencing), S
 Variant prioritisation overview as follows:
 ![image](https://github.com/ewhittle/Public_PhD_WES_Analysis/assets/80473064/d56d98f7-d662-4b21-bed3-54fe510174f5)
 
+## Contents
 
+### General Filtering Script:
 
+General_R_Filtering.R
+
+Author: Ella Whittle
+
+This script was used as base for all other filtering scripts developed.
+
+### Compound Heterozygous Script:
+
+R_Filter_Script_Ella_CompoundHet.R
+
+Author: Ella Whittle
+
+This script written used to identify heterozgous compound variants within individuals.
+
+### Splice Variant Script:
+
+R_Filter_Script_Ella_SpliceVariants.R
+
+Author: Ella Whittle 
+
+This script was written to identify splicing variants within individuals.
 
