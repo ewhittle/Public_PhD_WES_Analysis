@@ -8,7 +8,7 @@ Avilable: https://www.science.org/doi/10.1126/science.adg7492
 
 ## To run on STATS3:
 ## Step 1: Set up
-VEP installation using Constance installation guide: https://www.notion.so/VEP-65a9a2ca4a7c4bc9884752024e608bfe?pvs=4
+VEP installation using installation guide (author: Constance Maurer): https://www.notion.so/VEP-65a9a2ca4a7c4bc9884752024e608bfe?pvs=4
 
 Directory locations:
 VEP environment: /homes/homedirs-pg-research/sghms/student/users/m2007653/Iranian_ES/Tools/VEP_setup
