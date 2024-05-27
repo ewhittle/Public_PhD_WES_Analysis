@@ -95,5 +95,5 @@ $ bcftools +split-vep /apittman-aramis/sgul/shares/aramis/ewhittle/alphamissense
 
 ## Step 3: Convert flat table into SQL database 
 
-In order to manipulate the table in R Studio, the flat table must be converted into a SQL table within an SQL database. The code is uploaded in the file 'sqlconversion.py'. It must be run within the pythonenv conda environment. Once run, the analysis can be transitioned to R and analysed using the script ''. 
+In order to manipulate the table in R Studio, the flat table must be converted into a SQL table within an SQL database. The code is uploaded in the file 'sqlconversion.py'. It must be run within the pythonenv conda environment. Once run, the analysis can be transitioned to R and analysed.
 
