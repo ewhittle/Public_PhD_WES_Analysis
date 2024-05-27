@@ -7,6 +7,18 @@ All filtering conducted in R studio.
 
 To prioritise variants called from whole exome sequencing. Owing to consanguinity of families studies, recessive variants were suspected to be disease causing in most families. Therefore, prioritisation identified recessive single nucleotide variants. However, a brief analysis of de novo and compound heterozygous variants was conducted. 
 
+## To use scripts, the following are required:
+
+#Load necessary libraries
+install_packages <- function() {
+  install.packages("tidyverse")
+  install.packages("dplyr")
+  install.packages("writexl")
+  library(tidyverse)
+  library(dplyr)
+  library(writexl)
+}
+
 ## Methodology
 
 Post VEP annotation (final stage of raw processing of whole exome sequencing), SQL dataframes within databases were created and loaded into R for analysis. The scripts used to analyse these files are uploaded here. 
