@@ -1,6 +1,8 @@
 # Public_PhD_WES_Analysis
 This repository includes a selection of code used in my PhD project to investigate the genetic basis of neurodevelopmental disorders. Non available code has to remain private due to confidentiality issues. Code has been written by myself (Ella Whittle) unless otherwise specified. 
 
+Any patient IDs are deidentified. 
+
 # Problem Statement
 
 What are the unknown genetic pathological mechanisms underlying neurodevelopmental disease?
