@@ -10,13 +10,21 @@ To prioritise variants called from whole exome sequencing. Owing to consanguinit
 ## To use scripts, the following are required:
 
 #Load necessary libraries
+
 install_packages <- function() {
+
   install.packages("tidyverse")
+
   install.packages("dplyr")
+ 
   install.packages("writexl")
+ 
   library(tidyverse)
+
   library(dplyr)
+ 
   library(writexl)
+
 }
 
 ## Methodology
