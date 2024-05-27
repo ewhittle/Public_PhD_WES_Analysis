@@ -36,6 +36,10 @@ Author: Ella Whittle
 
 This script was used as base for all other filtering scripts developed.
 
+
+This R script begins by setting the working directory and loading necessary libraries, including tidyverse. It connects to an SQLite database containing exome sequencing data. The script defines a list of variant consequence criteria and a minor allele frequency (MAF) threshold for filtering variants. It then queries the variant_data table to select variants meeting these criteria. Additional filtering is performed to exclude variants with a CADD score below 20. The script removes high-frequency variants within both the specific cohort and a larger exome cohort. It reopens the database connection to load genotype data, which is then pivoted to long format for easier analysis. The variant and genotype data are joined, and the script filters for homozygous and heterozygous variants separately, removing any rows with missing data. Finally, the filtered variants are exported to Excel files. The script includes additional commented-out code for further filtering and analysis, such as removing benign clinical significance annotations and examining categories within data columns.
+
+
 ### Compound Heterozygous Script:
 
 R_Filter_Script_Ella_CompoundHet.R
