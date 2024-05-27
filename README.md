@@ -24,7 +24,7 @@ What are the unknown genetic pathological mechanisms underlying neurodevelopment
 # Data Collection
 
 For the cohort of indiviuals studies, a collaborating clinician recruited patients and provided blood samples for whole exome sequencing. Ethical consent was obtained.
-In total, 188 individuals were recruited in this sub-cohort for this study; all individuals were paediatric and, for the majority, born from consanguineous marriages. 
+In total, 188 individuals were recruited for this study; all individuals were paediatric and, for the majority, born from consanguineous marriages. 
 Exchange of data and patient material was enacted under a material transfer agreement code.
 To further investigate candidate novel disease genes, cohorts were expanded via GeneMatcher (https://genematcher.org/).
 
