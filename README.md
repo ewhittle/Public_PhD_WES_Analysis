@@ -61,7 +61,8 @@ Author: Ella Whittle
 Purpose: Use of Automap software to detect Runs of Homozygosity within whole exome sequencing data. Particularly relevant as I am investigating probands with consangiuneous parents and likely enrichment of recessive variants. 
 
 ## Variant Filtering
-Author: Ella Whittle
+Author: Ella Whittle 
+Acknowledgements to Alan Pittman for guidance 
 
 Purpose: R scripts to filter whole exome sequencing data for single nucleotide, compound heterozygous and splicing variants. 
 
