@@ -1,7 +1,9 @@
 
 # Variant Filtering 
 
-All filtering conducted in R studio and scripts written under the guidance of Alan Pittman.
+All filtering conducted in R studio. 
+
+Acknowledgements to Alan Pittman for assistance and guidance in developing code.
 
 ## Purpose
 
@@ -40,7 +42,7 @@ Variant prioritisation overview as follows:
 
 General_R_Filtering.R
 
-Author: Ella Whittle
+Author: Ella Whittle 
 
 This script was used as base for all other filtering scripts developed.
 
