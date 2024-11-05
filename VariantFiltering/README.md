@@ -5,7 +5,7 @@ All filtering conducted in R studio.
 
 ## Purpose
 
-To prioritise variants called from whole exome sequencing. Owing to consanguinity of families studies, recessive variants were suspected to be disease causing in most families. Therefore, prioritisation identified recessive single nucleotide variants. However, a brief analysis of de novo and compound heterozygous variants was conducted. 
+To prioritise variants called from whole exome sequencing. Owing to consanguinity of families studies, recessive variants were suspected to be disease causing in most families. Therefore, prioritisation identified recessive single nucleotide variants. However, a brief analysis of heterozygous and compound heterozygous variants was conducted. 
 
 ## To use scripts, the following are required:
 
