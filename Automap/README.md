@@ -7,7 +7,7 @@ Publication: AutoMap is a high performance homozygosity mapping tool using next-
 Available at: https://www.nature.com/articles/s41467-020-20584-4
 
 
-Tools requireed to run package:
+Tools required to run package:
 
 bcftools higher or equal to v1.9
 
