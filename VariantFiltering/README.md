@@ -1,7 +1,7 @@
 
 # Variant Filtering 
 
-All filtering conducted in R studio.
+All filtering conducted in R studio and scripts written under the guidance of Alan Pittman.
 
 ## Purpose
 
